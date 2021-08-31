@@ -1,9 +1,9 @@
 - title: Email
-  url: mailto://vszhub@gmail.com
+  url: mailto:jiang160112@gmail.com
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter
+- title: School
+  url: https://page.jankin.top
+  icon: fas fa-graduation-cap
 - title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
+  url: https://github.com/jankin1024
   icon: fab fa-github
