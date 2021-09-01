@@ -3,11 +3,25 @@ layout: post
 title: Welcome to Not Pure Poole
 date: 2020-09-29 23:18 +0800
 last_modified_at: 2020-10-01 01:08:25 +0800
-tags: [jekyll theme, jekyll, tutorial]
+tags: [tool]
+categories: tools
 toc:  true
+math: true
 ---
 Welcome to **Not Pure Poole**! This is an example post to show the layout.
 {: .message }
+
+Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.
+
+An inline math: \\\(E=mc^2\\\).
+
+A display math:
+
+$$
+i\hbar \frac{\partial \Psi}{\partial t} = -\frac{\hbar^2}{2m}
+\frac{\partial^2 \Psi}{\partial x^2} + V \Psi
+$$
+
 
 First, do you notice the TOC on the right side? Try to scroll down to read this post, you'll find that the TOC is always sticky in the viewport.
 
