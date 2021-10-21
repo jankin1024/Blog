@@ -3,7 +3,6 @@ layout: post
 title: Welcome to Not Pure Poole
 tags:
 - tool
-categories: tools
 toc: true
 math: true
 date: 2021-09-01 13:08 +0800
